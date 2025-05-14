@@ -14,3 +14,7 @@ git clone https://github.com/hedi0410/cyber_business.git
 cd cyber_business (to navigate to the game's folder)
 
 python main.py (to run the game)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
